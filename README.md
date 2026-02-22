@@ -3,13 +3,6 @@ Secure enterprise network design with VLANs, ASA firewall, NAT, DMZ, and segment
 ## 🖥 Network Topology
 ![Topology](Network-Diagram/Network-Topology.png)
 
-Perfect bro 🔥 This one is a very strong network (ASA + DMZ + VLAN Segmentation + NAT).
-Let’s make a **professional GitHub README** for your Unit 29 Network Security project.
-
-You can copy everything below and paste into `README.md`.
-
----
-
 ## 📌 Project Overview
 
 This project was developed for **Pearson BTEC HND in Computing – Unit 29 (Network Security)**.
